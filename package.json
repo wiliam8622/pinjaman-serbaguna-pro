@@ -1,0 +1,8 @@
+{
+  "name": "pinjaman-serbaguna-pro",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "zip": "node buat-zip.js"
+  }
+}
